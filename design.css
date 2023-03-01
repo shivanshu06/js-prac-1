@@ -1,0 +1,24 @@
+.button-a{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 50px;
+    border-color: white;
+    
+}
+
+#button-b{
+    justify-content: end;
+    
+}
+
+#output{
+    display: none;
+}
+
+.container{
+    text-align: center;
+    margin: 100px;
+    margin-top: 15rem;
+    
+}
